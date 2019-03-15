@@ -2,6 +2,9 @@
 	height: 70px;
 	background-color: #390000;
 }
+.navbar-toggler{
+	background-color: #white;
+}
 .navbar-brand{
 	color: white;
 }
