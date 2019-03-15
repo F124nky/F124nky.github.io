@@ -1,0 +1,74 @@
+.navbar{
+	height: 70px;
+	background-color: #390000;
+}
+.navbar-brand{
+	color: white;
+}
+.navbar-brand:hover{
+	color: #ff4848;
+}
+.nav-link{
+	color: white;
+}
+.nav-link:hover{
+	color: #ff4848;
+}
+.nav-link-menu{
+	color: white;
+	margin-left: 170px;
+}
+.nav-link-menu:hover{
+	color: #ff4848;
+}
+.dropdown-menu{
+	background-color:#fffff2; 
+}
+.dropdown-item:hover{
+	background-color: #cb5252;
+}
+.img-profil{
+	border-radius: 50%;
+}
+.nav-link-btn{
+	margin-left: 50px;
+}
+.card{
+	margin-top: 10%;
+	align-items: center;
+	border-color: transparent;
+	background-color: transparent;
+}
+.img{
+	border-radius: 10%;
+	width: 20%;
+	height: 20%;
+}
+.card-body{
+	color: white;
+}
+.card{
+	margin-top: 5%;
+	margin-left: 5%;
+}
+.hr{
+	background-color: white;
+}
+.footer{
+	background-color: #390000;
+	width: 100%;
+	height: 20%;
+	margin-top: 15%;
+	margin-bottom: 1%;
+}
+.text-copy{
+	margin-bottom: 20px;
+	color: white;
+}
+.bg{
+	background: url('photo/background/bank-4042115_1920.jpg') no-repeat fixed;
+	-webkit-background-size: 100% 100%;
+	-moz-background-size: 100% 100%;
+	-o-background-size: 100% 100%;
+	background-size: 100% 100%;
+}
