@@ -25,6 +25,9 @@
 .nav-link-btn{
 	margin-right: 50px;
 }
+.navbar-toggler{
+	background-color: white;
+}
 .btn{
 	margin-left: 50px;
 }
