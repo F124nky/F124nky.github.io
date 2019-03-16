@@ -8,6 +8,9 @@
 .navbar-brand:hover{
 	color: #ff4848;
 }
+.navbar-toggler{
+	background-color:white;
+}
 .nav-link{
 	margin-left: 10px;
 	color: white;
