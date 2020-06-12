@@ -17,8 +17,9 @@
 
 /* button */
 .btn{
-	background-color: #674887;
-	color: white;
+	background-color: white;
+	color: purple;
+	border-color: purple;
 }
 
 /* isi profil */
