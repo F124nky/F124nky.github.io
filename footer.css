@@ -1,22 +1,22 @@
 .footer{
-  background-color:#2a2a28;
+  background-color:white;
   padding:25px 0 10px;
   font-size:15px;
   line-height:24px;
-  color:  #bdc3c7;
+  color:  black;
 }
 
 .footer hr{
-  border-color:white;
+  border-color:black;
   opacity: 0,5;
 }
 
 .footer a{
-  color:  #bdc3c7;
+  color:  black;
 }
 
 .footer a:hover{
-  color:#db9e07;
+  color:purple;
   text-decoration:none;
 }
 
